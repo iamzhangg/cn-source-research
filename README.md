@@ -33,3 +33,7 @@ python -m unittest discover -s tests -v
 No Python packages or API keys are required. The detailed source rubric is in [`references/source-grading.md`](references/source-grading.md).
 
 Part of [Agent Skill Lab](https://github.com/iamzhangg/agent-skill-lab). Released under the [MIT License](LICENSE).
+
+## Portfolio path / 作品集路径
+
+Use this Skill to establish evidence, then continue with [China Opportunity Radar](https://github.com/iamzhangg/china-opportunity-radar) to frame opportunities and [Feedback to PRD](https://github.com/iamzhangg/feedback-to-prd) to define requirements. The example demonstrates the format and is not a comprehensive market report.
