@@ -1,0 +1,18 @@
+{
+  "question": "What does a portable Agent Skill contain?",
+  "as_of": "2026-09-24",
+  "items": [
+    {
+      "claim": "A portable Agent Skill uses SKILL.md as its entry point.",
+      "url": "https://agentskills.io/",
+      "title": "Agent Skills",
+      "publisher": "Agent Skills",
+      "published_at": null,
+      "accessed_at": "2026-09-24",
+      "tier": "A",
+      "support": "The specification documents the Skill folder and entry point.",
+      "status": "supports",
+      "limitations": "Individual clients may add their own installation conventions."
+    }
+  ]
+}
